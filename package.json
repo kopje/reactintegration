@@ -6,6 +6,8 @@
     "start": "node node_modules/react-native/local-cli/cli.js start"
   },
   "dependencies": {
+    "@babel/core": "7.0.0-beta.47",
+    "react": "16.4.1",
     "react-native": "^0.56.0"
   }
 }

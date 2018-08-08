@@ -71,3 +71,6 @@ onedrivecore/.externalNativeBuild/
 
 SkyDrive/src/main/assets/index.mobile.bundle*
 SkyDrive/src/main/assets/LivePersonaCard*
+
+# node_modules from react native
+node_modules/

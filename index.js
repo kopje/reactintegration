@@ -5,7 +5,7 @@ class HelloWorld extends React.Component {
   render() {
     return (
       <View style={styles.container}>
-        <Text style={styles.hello}>Hello, World</Text>
+        <Text style={styles.hello}>Hello, React Native.</Text>
       </View>
     );
   }
@@ -19,8 +19,8 @@ var styles = StyleSheet.create({
     fontSize: 20,
     textAlign: 'center',
     margin: 10,
+    backgroundColor: '#fff'
   },
 });
 
 AppRegistry.registerComponent('OneDriveReact', () => HelloWorld);
-
